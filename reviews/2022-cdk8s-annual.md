@@ -94,7 +94,7 @@ we would appreciate some guidance in this regard.
 we would like to leverage them for cdk8s. For example, what is discussed during community meetings? how is public 
 planning done? how should we present a roadmap? what are some common contribution obstacles we should be aware of?
 * Do you have some recommendations on how a project such as cdk8s, i.e client side only, can collect usage data? Currently our 
-* sources for this are download statistics, but those don’t really map to distinct usage patterns.
+sources for this are download statistics, but those don’t really map to distinct usage patterns.
 
 ### Do you think that your project meets the criteria for incubation?
 
