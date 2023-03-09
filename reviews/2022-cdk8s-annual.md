@@ -14,8 +14,7 @@ The following contains the requested content for the annual review, as described
 
 The full devstats page for cdk8s is available here: https://cdk8s.devstats.cncf.io/d/8/dashboards
 
-* Maintaining a steady rate of merged PRs across our repositories. 
-* There are 7 [community contributions](https://cdk8s.devstats.cncf.io/d/56/company-commits-table?orgId=1&from=now-1y&to=now&var-repogroups=All&var-companies=Palo%20Alto%20Networks&var-companies=Cisco&var-companies=GridLine) 
+* In the past year, there were 7 [community contributions](https://cdk8s.devstats.cncf.io/d/56/company-commits-table?orgId=1&from=now-1y&to=now&var-repogroups=All&var-companies=Palo%20Alto%20Networks&var-companies=Cisco&var-companies=GridLine) 
 from 3 different users, in 3 different organizations (Palo Alto Networks, GridLine, Cisco). There is an additional [contribution](https://github.com/cdk8s-team/cdk8s-cli/pull/324) 
 that doesn’t show up on devstats, probably because the user isn’t associated with any company.
 
