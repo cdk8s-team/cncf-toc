@@ -71,10 +71,11 @@ Official announcements have been made via the AWS blog:
 Our goals for 2023 focus on two themes:
 
 * Make it easier for customers to integrate cdk8s into the existing Kubernetes ecosystem (e.g Helm, ArgoCD, Flux, ...). 
-This will be done by both creating content as well as adding technical capabilities to the project.
-* Make it easier for customers to author complex Kubernetes manifests that depend on cloud resources.
+We'll create foundational content on the cdk8s framework, how-to guides and tutorials that show customers 
+how to integrate cdk8s into their CI/CD pipelines.
+* Make it easier for customers to author complex Kubernetes manifests that leverage cloud services. We will integrate with the AWS CDK and CDK For Terraform to enable applications that contain both Kubernetes and cloud resources.
 
-More information on these goals can be found here.
+> More information on these goals can be found [here](https://github.com/cdk8s-team/cdk8s/discussions?discussions_q=label%3Aplanning%2F2023+).
 
 In addition, we would like to cultivate the community, encourage more contributions, and more contributors that 
 are versed in the codebase. To that end, we will hold monthly community meetings where we will discuss ongoing 
